@@ -144,7 +144,6 @@ class BankCardCell: UITableViewCell {
         button.setImage(UIImage(named: actionItem), for: .normal)
         button.addTarget(self, action: #selector(showButtonActionToast(_sender:)), for: .touchUpInside)
         button.addLeftPadding(8.0)
-        //button.titleEdgeInsets = UIEdgeInsets(top: 0, left: 8, bottom: 0, right: 0)
         button.tintColor = customColor
         button.sizeToFit()
         return button
