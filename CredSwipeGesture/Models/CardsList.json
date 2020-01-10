@@ -1,0 +1,134 @@
+{
+    "Cards": [
+        {
+            "cardNum": "4111111111111111",
+            "cardExpiry": {
+                "month": 2,
+                "year": 2019
+            },
+            "cardHolderName": "Sivajee Battina",
+            "bankName": "ICICI BANK",
+            "cardType": "VISA",
+            "cardBackgroudImage": "sample.jpg",
+            "cardLogoImage": "sampleLogo.jpg",
+            "gradientStartColor": {
+                "r": 158,
+                "g": 19,
+                "b": 40
+            },
+            "gradientEndColor": {
+                "r": 185,
+                "g": 85,
+                "b": 51
+            },
+            "actionItems": [
+                "Pay now",
+                "View Details"
+            ]
+        },
+        {
+            "cardNum": "4361111178111183",
+            "cardExpiry": {
+                "month": 12,
+                "year": 2019
+            },
+            "cardHolderName": "Battina Sivajee",
+            "bankName": "SBI",
+            "cardType": "VISA",
+            "cardBackgroudImage": "sample.jpg",
+            "cardLogoImage": "sampleLogo.jpg",
+            "gradientStartColor": {
+                "r": 46,
+                "g": 0,
+                "b": 149
+            },
+            "gradientEndColor": {
+                "r": 103,
+                "g": 0,
+                "b": 180
+            },
+            "actionItems": [
+                "Pay now",
+                "View Details",
+                "Share"
+            ]
+        },
+        {
+            "cardNum": "58721111111111128",
+            "cardExpiry": {
+                "month": 4,
+                "year": 2020
+            },
+            "cardHolderName": "Sivajee Battina",
+            "bankName": "CITI BANK",
+            "cardType": "Master",
+            "cardBackgroudImage": "sample.jpg",
+            "cardLogoImage": "sampleLogo.jpg",
+            "gradientStartColor": {
+                "r": 21,
+                "g": 167,
+                "b": 239
+            },
+            "gradientEndColor": {
+                "r": 6,
+                "g": 60,
+                "b": 137
+            },
+            "actionItems": [
+                "Pay now"
+            ]
+        },
+        {
+            "cardNum": "58726661789111128",
+            "cardExpiry": {
+                "month": 8,
+                "year": 2022
+            },
+            "cardHolderName": "Sivajee Battina",
+            "bankName": "Amex",
+            "cardType": "Master",
+            "cardBackgroudImage": "sample.jpg",
+            "cardLogoImage": "sampleLogo.jpg",
+            "gradientStartColor": {
+                "r": 84,
+                "g": 126,
+                "b": 110
+            },
+            "gradientEndColor": {
+                "r": 44,
+                "g": 104,
+                "b": 83
+            },
+            "actionItems": [
+                "Pay now",
+                "View Details"
+            ]
+        },
+        {
+            "cardNum": "48797271111999128",
+            "cardExpiry": {
+                "month": 9,
+                "year": 2026
+            },
+            "cardHolderName": "Sivajee Battina",
+            "bankName": "CITI BANK",
+            "cardType": "VISA",
+            "cardBackgroudImage": "sample.jpg",
+            "cardLogoImage": "sampleLogo.jpg",
+            "gradientStartColor": {
+                "r": 21,
+                "g": 167,
+                "b": 239
+            },
+            "gradientEndColor": {
+                "r": 6,
+                "g": 60,
+                "b": 137
+            },
+            "actionItems": [
+                "Pay now",
+                "View Details"
+            ]
+        }
+    ]
+}
